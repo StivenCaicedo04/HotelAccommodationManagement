@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\bin\Debug\net8.0\HotelAccommodationManagementDomain.deps.json
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\bin\Debug\net8.0\HotelAccommodationManagementDomain.dll
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\bin\Debug\net8.0\HotelAccommodationManagementDomain.pdb
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.dll
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\refint\HotelAccommodationManagementDomain.dll
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\HotelAccommodationManagementDomain.pdb
+C:\Users\USUARIO\source\repos\HotelAccommodationManagement\HotelAccommodationManagementDomain\obj\Debug\net8.0\ref\HotelAccommodationManagementDomain.dll

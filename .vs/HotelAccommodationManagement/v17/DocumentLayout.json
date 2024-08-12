@@ -1,0 +1,972 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\roomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\roomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\roomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\roomservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\roomservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\responsebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\responsebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\hotelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\hotelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\passengerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\passengerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\reservationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\reservationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\reservationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\reservationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\hotelservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\hotelservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\hotelrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\hotelrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\dto\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\dto\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\responsebaseservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\responsebaseservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\testresponsebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\testresponsebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testservice\\loginservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testservice\\loginservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapplication\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14AF10-EDED-4B4E-84BF-66F111310ABD}|HotelAccommodationManagementApplication\\HotelAccommodationManagementApplication.csproj|solutionrelative:hotelaccommodationmanagementapplication\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\loginrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\loginrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\passengerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\passengerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\reservationrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\reservationrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementtest\\testrespository\\roomrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7007C20-C5CB-4CB1-8D77-FA23D76CCB68}|HotelAccommodationManagementTest\\HotelAccommodationManagementTest.csproj|solutionrelative:hotelaccommodationmanagementtest\\testrespository\\roomrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\iloginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\iloginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\isendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\isendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\repositories\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\repositories\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E6EC0-062E-4AC8-A3F1-56648F5F4EC4}|HotelAccommodationManagementApi\\HotelAccommodationManagementApi.csproj|solutionrelative:hotelaccommodationmanagementapi\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementdomain\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84BBEB5-FD2B-4BD9-9E7F-414CD8F17871}|HotelAccommodationManagementDomain\\HotelAccommodationManagementDomain.csproj|solutionrelative:hotelaccommodationmanagementdomain\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|c:\\users\\usuario\\source\\repos\\hotelaccommodationmanagement\\hotelaccommodationmanagementinfraestructure\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C784512-E870-47DA-B839-7F0DB3F8055E}|HotelAccommodationManagementInfraestructure\\HotelAccommodationManagementInfrastructure.csproj|solutionrelative:hotelaccommodationmanagementinfraestructure\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\RoomsRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\RoomsRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\RoomsRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\RoomsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:42:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\RoomServices.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\RoomServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\RoomServices.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\RoomServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:05:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomServicesTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\RoomServicesTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\RoomServicesTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\RoomServicesTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\RoomServicesTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:07:51.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\PassengerRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\PassengerRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\PassengerRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\PassengerRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:02:32.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:51:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\HotelRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\HotelRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvyAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:14:49.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\LoginRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:23:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\ReservationRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:35:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Repository\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Repository\\UsersRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Repository\\UsersRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvyMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:37:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\RoomDto.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Dto\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\RoomDto.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Dto\\RoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:08:35.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:38:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Reservations.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Reservations.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Reservations.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Reservations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:53:29.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\ResponseBaseService.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\ResponseBaseService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\ResponseBaseService.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\ResponseBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:26:13.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\UserService.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:47:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:28:17.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IHotelRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\IHotelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:06:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\HotelServices.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\HotelServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\HotelServices.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\HotelServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:51:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Rooms.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Rooms.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Rooms.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Rooms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:53:32.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\PassengerService.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\PassengerService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\PassengerService.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\PassengerService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:19:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:41:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:23:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\ReservationServices.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\ReservationServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\ReservationServices.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\ReservationServices.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:51:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IReservationRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:51:22.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\ReservationServiceTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\ReservationServiceTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\ReservationServiceTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\ReservationServiceTest.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAiwAoBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:03:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PassengerServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\PassengerServiceTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\PassengerServiceTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\PassengerServiceTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\PassengerServiceTest.cs",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAUwCIBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:00:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HotelServicesTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\HotelServicesTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\HotelServicesTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\HotelServicesTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\HotelServicesTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:55:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hotels.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Hotels.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Hotels.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Hotels.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Hotels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:30:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\HotelDto.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Dto\\HotelDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\HotelDto.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Dto\\HotelDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:12:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Dto\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\ReservationDto.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Dto\\ReservationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:11:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Passengers.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Passengers.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Passengers.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Passengers.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Passengers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:53:28.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HotelRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\HotelRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\HotelRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\HotelRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\HotelRepositoryTest.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:37:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PassengerDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\PassengerDto.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Dto\\PassengerDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\PassengerDto.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Dto\\PassengerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:11:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Dto\\UserDto.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:11:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResponseBaseServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\ResponseBaseServiceTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\ResponseBaseServiceTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\ResponseBaseServiceTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\ResponseBaseServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:05:21.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TestResponseBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\TestResponseBaseService.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\TestResponseBaseService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\TestResponseBaseService.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\TestResponseBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:06:42.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\LoginServiceTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestService\\LoginServiceTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestService\\LoginServiceTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestService\\LoginServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:56:09.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\LoginRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\LoginRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\LoginRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\LoginRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:51:06.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\UserRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\UserRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\UserRepositoryTest.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAcwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:49:11.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\LoginServices.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\LoginServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\LoginServices.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\LoginServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:26:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MailServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\MailServices.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApplication\\Services\\MailServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApplication\\Services\\MailServices.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApplication\\Services\\MailServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:53:15.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PassengerRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\PassengerRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\PassengerRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\PassengerRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\PassengerRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:47:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReservationRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\ReservationRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\ReservationRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\ReservationRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\ReservationRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:46:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoomRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\RoomRepositoryTest.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementTest\\TestRespository\\RoomRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementTest\\TestRespository\\RoomRepositoryTest.cs",
+              "RelativeToolTip": "HotelAccommodationManagementTest\\TestRespository\\RoomRepositoryTest.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:42:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\appsettings.json",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T13:57:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Users.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:53:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:42:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\PassengerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:40:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ILoginUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\ILoginUserRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\ILoginUserRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\ILoginUserRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\ILoginUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:28:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Program.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:54:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementApi\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementApi\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "HotelAccommodationManagementApi\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:47:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Data\\DataDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Data\\DataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:52:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ISendMail.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\ISendMail.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\ISendMail.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\ISendMail.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\ISendMail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:50:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Repositories\\IPassengerRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Repositories\\IPassengerRepository.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Repositories\\IPassengerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:51:21.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Login.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:31:48.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Response.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementDomain\\Entities\\Response.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementDomain\\Entities\\Response.cs",
+              "RelativeToolTip": "HotelAccommodationManagementDomain\\Entities\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:10:04.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "HotelAccommodationManagementInfraestructure\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\HotelAccommodationManagement\\HotelAccommodationManagementInfraestructure\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "HotelAccommodationManagementInfraestructure\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:56:25.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
